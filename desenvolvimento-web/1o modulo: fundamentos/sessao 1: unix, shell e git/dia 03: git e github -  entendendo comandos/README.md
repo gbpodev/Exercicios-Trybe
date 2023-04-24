@@ -1,0 +1,1 @@
+Nesse dia aprendi sobre a ligação entre o git e o github. Entendi como é fundamental e útil. Estudei sobre como enviar e puxar do repositório remoto para o local e vise versa. É realmente muito interessante e útil a dinâmica entre os dois! Vai ser muito importante pro resto do curso e carreira, então é melhor eu praticar bastante!
