@@ -1,0 +1,1 @@
+Nesse dia, aprendi oque é kernell e shell. Tambem aprendi comandos básicos de diretórios, como mudar de diretórios, criar diretórios, criar arquivos, listar arquivos e etc. Foi meu primeiro contato e passo como dev.
