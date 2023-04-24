@@ -1,0 +1,1 @@
+Nesse dia tive meu primeiro contato com o git. Aprendi seus básicos e para que servia. Tambem estudei sobre branchs, commits, stages e etc. Mais um passo adianta rumo a carreira de dev!
